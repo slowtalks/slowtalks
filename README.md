@@ -22,17 +22,20 @@
 
 ## ⚡ pinned
 
-<div align="center">
-
-<a href="https://github.com/slowtalks/AutoClicker">
-  <img src="./assets/pin-autoclicker.svg" alt="AutoClicker" />
-</a>
-&nbsp;
-<a href="https://github.com/slowtalks/worldcams">
-  <img src="./assets/pin-worldcams.svg" alt="worldcams" />
-</a>
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%">
+  <a href="https://github.com/slowtalks/AutoClicker">
+    <img src="./assets/pin-autoclicker.svg" alt="AutoClicker" width="100%" />
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/slowtalks/worldcams">
+    <img src="./assets/pin-worldcams.svg" alt="worldcams" width="100%" />
+  </a>
+</td>
+</tr>
+</table>
 
 <br />
 
