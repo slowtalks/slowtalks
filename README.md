@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="./assets/hero-v2.svg" alt="slow — hero card" width="100%" />
+<img src="./assets/hero-v3.svg" alt="slow — hero card" width="100%" />
 
 </div>
 
