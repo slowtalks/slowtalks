@@ -35,6 +35,13 @@
   </a>
 </td>
 </tr>
+<tr>
+<td width="50%" colspan="2" align="center">
+  <a href="https://github.com/slowtalks/snaposint">
+    <img src="./assets/pin-snaposint-v1.svg" alt="snaposint" width="50%" />
+  </a>
+</td>
+</tr>
 </table>
 
 <br />
