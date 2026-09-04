@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" alt="slow — hero card" width="100%" />
+<img src="./assets/hero-v2.svg" alt="slow — hero card" width="100%" />
 
 </div>
 
@@ -26,12 +26,12 @@
 <tr>
 <td width="50%">
   <a href="https://github.com/slowtalks/AutoClicker">
-    <img src="./assets/pin-autoclicker.svg" alt="AutoClicker" width="100%" />
+    <img src="./assets/pin-ac-v2.svg" alt="AutoClicker" width="100%" />
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/slowtalks/worldcams">
-    <img src="./assets/pin-worldcams.svg" alt="worldcams" width="100%" />
+    <img src="./assets/pin-wc-v2.svg" alt="worldcams" width="100%" />
   </a>
 </td>
 </tr>
