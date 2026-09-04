@@ -59,12 +59,12 @@ mood:      quiet, curious, always shipping
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=slowtalks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true&cache_seconds=86400" />
+<img height="170" src="./assets/stats.svg" alt="stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=slowtalks&theme=tokyonight&hide_border=true&background=0b0b0f&stroke=0b0b0f&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
 <br /><br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowtalks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&langs_count=8&cache_seconds=86400" />
+<img height="165" src="./assets/top-langs.svg" alt="top languages" />
 
 </div>
 
