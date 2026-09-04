@@ -26,18 +26,30 @@ mood:      quiet, curious, always shipping
 
 ### pinned
 
-<a href="https://github.com/slowtalks/AutoClicker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slowtalks&repo=AutoClicker&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/slowtalks/worldcams">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slowtalks&repo=worldcams&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&icon_color=8B5CF6" />
-</a>
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/slowtalks/AutoClicker">
+    <img src="https://opengraph.githubassets.com/1/slowtalks/AutoClicker" width="100%" alt="AutoClicker" />
+    <br />
+    <sub><b>AutoClicker</b> · Python · ⭐ 2</sub>
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/slowtalks/worldcams">
+    <img src="https://opengraph.githubassets.com/1/slowtalks/worldcams" width="100%" alt="worldcams" />
+    <br />
+    <sub><b>worldcams</b> · HTML</sub>
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
 ### stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,git,github,vscode,linux,windows&theme=dark" />
 </p>
 
@@ -47,10 +59,12 @@ mood:      quiet, curious, always shipping
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=slowtalks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=slowtalks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true&cache_seconds=86400" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=slowtalks&theme=tokyonight&hide_border=true&background=0b0b0f&stroke=0b0b0f&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowtalks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&langs_count=8" />
+<br /><br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowtalks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8B5CF6&langs_count=8&cache_seconds=86400" />
 
 </div>
 
