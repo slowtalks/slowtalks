@@ -47,9 +47,9 @@
       <circle cx="45" cy="45" r="38" stroke="#161b22" stroke-width="6" fill="none"/>
       <circle cx="45" cy="45" r="38" stroke="url(#ring)" stroke-width="6" fill="none" stroke-linecap="round"
               stroke-dasharray="238.7" stroke-dashoffset="238.7" transform="rotate(-90 45 45)" filter="url(#glow)">
-        <animate attributeName="stroke-dashoffset" from="238.7" to="214.8" dur="1.4s" fill="freeze" begin="0.2s"/>
+        <animate attributeName="stroke-dashoffset" from="238.7" to="202.9" dur="1.4s" fill="freeze" begin="0.2s"/>
       </circle>
-      <text x="45" y="53" text-anchor="middle" font-size="26" font-weight="700" fill="#c9a8ff">2</text>
+      <text x="45" y="53" text-anchor="middle" font-size="26" font-weight="700" fill="#c9a8ff">3</text>
       <text x="45" y="108" text-anchor="middle" font-size="10" font-weight="600" fill="#c9d1d9" opacity="0.7" letter-spacing="1.5">STARS</text>
     </g>
     <g transform="translate(105,0)">
